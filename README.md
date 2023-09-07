@@ -1,2 +1,2 @@
 # Thymeleaf
-Get, Post
+Get, Post, Same page redirection
